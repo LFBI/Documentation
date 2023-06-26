@@ -71,10 +71,13 @@ const config = {
             title: 'Contact Links',
             items: [
               {
-                html: 'Technical Support: Romeo Bagunu (<a href="mailto:rbagunu@lfbi.org">rbagunu@lfbi.org</a>)'
+                html: 'Technical Support: Email Romeo Bagunu at <a href="mailto:rbagunu@lfbi.org">rbagunu@lfbi.org</a>'
               },
               {
-                html: 'Academic Support: Hannah Hatton (<a href="mailto:hhatton@lfbi.org">hhatton@lfbi.org</a>)'
+                html: 'Academic Support: Email Hannah Hatton at <a href="mailto:hhatton@lfbi.org">hhatton@lfbi.org</a>'
+              },
+              {
+                html: 'Support Form: <a href="https://www.cognitoforms.com/MBT3/LFBISupportForm">https://www.cognitoforms.com/MBT3/LFBISupportForm</a>'
               },
               {
                 html: 'General Contact Inbox: <a href="mailto:contact@lfbi.org">contact@lfbi.org</a>'
