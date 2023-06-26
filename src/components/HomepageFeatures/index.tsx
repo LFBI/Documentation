@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
@@ -15,6 +16,9 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Visit the New Student guide to get started with logging in and enrolling.
+        <br/>
+        <br/>
+        <Link className="button button--secondary" to="/docs/category/new-students">New Student guide</Link>
       </>
     ),
   },
@@ -23,7 +27,10 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/road-route-map-icon.svg').default,
     description: (
       <>
-        Visit the Navigation docs to let us help you find what you're looking for.
+        Visit the Navigation guide to let us help you find what you're looking for.
+        <br/>
+        <br/>
+        <Link className="button button--secondary" to="/docs/category/navigation">Navigation guide</Link>  
       </>
     ),
   },
@@ -32,7 +39,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/question-mark-circle-outline-icon.svg').default,
     description: (
       <>
-        See the contact information at the bottom of this page to reach out to our team.
+        See the contact information at the bottom of this page to reach out to a team member or fill out a Support form.
+        <br/>
+        <br/>
       </>
     ),
   },
