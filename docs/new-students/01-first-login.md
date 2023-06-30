@@ -3,7 +3,8 @@ sidebar_position: 1
 ---
 
 # Logging In to MyLFBI
-How to access your account on Microsoft Office and use 365 Connect to log in to MyLFBI
+
+_How to access your account on Microsoft Office and use 365 Connect to log in to MyLFBI_
 
 ## Your LFBI.org Account
 
