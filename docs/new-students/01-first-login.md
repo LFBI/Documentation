@@ -17,10 +17,10 @@ LFBI manages its user accounts via Microsoft. You must log in to Office *first* 
 LFBI provides every student with a Microsoft Account under the LFBI.org domain. This offers many perks for you as a student and for us as an organization!
 
 Here are some things to know:
--   Your LFBI.org username doubles as an email address; you can access that inbox at https://www.outlook.com.
 -   By logging in to Microsoft Office at https://www.office.com, you can access online versions of Office apps like Microsoft Word, Excel, PowerPoint, and OneNote.
+-   Your LFBI.org username doubles as an email address; you can access that inbox at https://www.outlook.com.
 -   By logging in to OneDrive at https://www.onedrive.live.com, you have online cloud storage for your notes, assignments, and other files.
--   By logging in to MyLFBI using **365 Connect**, your Microsoft Account becomes a Single-Sign-On for all these services in addition to our school website.
+-   By logging in to [https://www.mylfbi.org](https://mylfbi.org/login/index.php) using the **365 Connect** button, your Microsoft Account becomes a Single-Sign-On for all these services in addition to our school website.
 
 ## Signing in to Office
 
