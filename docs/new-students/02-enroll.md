@@ -2,9 +2,6 @@
 sidebar-position: 2
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 # Enrolling in your Courses
 
 _How to enroll in your first classes_
@@ -61,23 +58,6 @@ If you completed Discipleship 2 or a similar training in your local church, you 
 grade to LFBI. For more information, please reach out to the Registrar.
 
 :::
-
-<!-- 
-<Tabs>
-    <TabItem value="foundations" label="Foundations">
-        The Foundations courses are the entry-level, *required* courses that students must take before completing the rest of the Program of Study. They establish a biblical framework for character, ministry, and theology upon which the rest of the school builds upon. 
-    </TabItem>
-    <TabItem value="bible-essentials" label="Bible Essentials">
-        The Bible Essentials courses provide students with the necessary tools and introductory content to understand the Bible. It is highly *recommended* that students complete Bible Essentials before proceeding to Leadership Prep.
-    </TabItem>
-    <TabItem value="leadership-prep" label="Leadership Prep">
-        The Leadership Prep courses equip students for biblical leadership in ministry. This includes advanced doctrinal studies, special topics such as missiology, biblical counseling, eschatology, and church ministry, as well as a Ministry Practicum and Missions/Discovery trip.
-    </TabItem>
-    <TabItem value="electives" label="Electives">
-        Electives are necessary to complete the 60 Credit Hour requirement for graduation with an Associate of Divinity. They fall into three basic areas: Ministry Leadership, Missiology, and Counseling.
-    </TabItem>
-</Tabs> 
--->
 
 ## Visit the Courses Page
 
