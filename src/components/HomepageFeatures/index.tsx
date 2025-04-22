@@ -15,10 +15,10 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/e-learning-icon.svg').default,
     description: (
       <>
-        Visit the New Student guide to get started with logging in and enrolling.
+        Visit the New Student guide to log in and enroll for classes.
         <br/>
         <br/>
-        <Link className="button button--secondary" to="/docs/category/new-students">New Student guide</Link>
+        <Link className="button button--secondary" to="/docs/category/getting-started">Get started</Link>
       </>
     ),
   },
@@ -27,10 +27,10 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/road-route-map-icon.svg').default,
     description: (
       <>
-        Visit the Navigation guide to let us help you find what you're looking for.
+        Visit the MyLFBI guide to navigating our learning platform.
         <br/>
         <br/>
-        <Link className="button button--secondary" to="/docs/category/navigation">Navigation guide</Link>  
+        <Link className="button button--secondary" to="/docs/category/using-mylfbi">Explore MyLFBI</Link>  
       </>
     ),
   },
@@ -39,9 +39,10 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/question-mark-circle-outline-icon.svg').default,
     description: (
       <>
-        See the contact information at the bottom of this page to reach out to a team member or fill out a Support form.
+        Fill out the Help Desk form below for assistance, and we will respond as soon as possible.
         <br/>
         <br/>
+        <a class="button button--secondary" href="https://www.cognitoforms.com/mbt3/lfbihelpdesk" target='_blank'>Get Help</a>  
       </>
     ),
   },
