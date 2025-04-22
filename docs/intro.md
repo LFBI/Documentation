@@ -3,8 +3,8 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome
+# Introduction
 
-Welcome to LFBI's technical documentation for students!
+Welcome to the LFBI student guide! This documentation introduces you to the MyLFBI learning platform and teaches you how to utilize your LFBI account.
 
-If this is your first time here, please proceed to the next section for **New Students** to begin by logging in to your account, updating your profile, and enrolling in your courses.
+If this is your first time here, please proceed to the **Getting Started** section of the guide to begin.
