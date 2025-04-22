@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
         Visit the MyLFBI guide to navigating our learning platform.
         <br/>
         <br/>
-        <Link className="button button--secondary" to="/docs/category/using-mylfbi">Explore MyLFBI</Link>  
+        <Link className="button button--secondary" to="/docs/category/mylfbi">Explore MyLFBI</Link>  
       </>
     ),
   },
