@@ -13,13 +13,7 @@ LFBI provides every student with a **Microsoft 365** account. This offers many p
 -   Your LFBI account is an email address. You can open that inbox at https://www.outlook.com.
 -   Your LFBI account has access to online versions of the Microsoft Office suite of applications, such as Microsoft Word, Excel, PowerPoint, and OneNote. To use these apps, go to https://www.office.com.
 -   Your LFBI account has online cloud storage with OneDrive. This is a great place to store your class notes and assignments. You can manage your OneDrive files at https://www.onedrive.live.com.
--   Your LFBI account is used to log in to our MyLFBI learning platform. All you have to do is click the **365 Connect** button to Single-Sign-On (SSO) into the website.
-
-:::note 
-
-Single-Sign-On (SSO) is when several different websites share one login service. So, when you log in to one website, that login is shared by all the other websites.
-
-:::
+-   Your LFBI account is used to log in to our MyLFBI learning platform. All you have to do is click the **365 Connect** button to Single-Sign-On (SSO) into MyLFBI using your Microsoft account.
 
 At LFBI, your login is shared between MyLFBI and the Microsoft 365 services listed above. This means that when you are logged in to Microsoft 365, you can easily log in to MyLFBI. However, if you are not logged in to Microsoft 365, you cannot log in to MyLFBI.
 
